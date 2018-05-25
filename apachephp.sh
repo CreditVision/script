@@ -24,5 +24,7 @@ echo "Setting ownership on /var/www"
 sudo chown -R www-data:www-data /var/www
 
 #Downloading demo.php file
-wget https://github.com/CreditVision/azure-Getting-Started-with-Terraform/edit/master/scripts/demo.php
+wget https://github.com/CreditVision/script/demo.php
 sudo chown -R www-data:www-data /var/www/html/demo.php
+sudo chown -R www-data:www-data /var/www/html
+sudo chown -R www-data:www-data /var/www
