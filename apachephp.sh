@@ -27,4 +27,3 @@ sudo chown -R www-data:www-data /var/www
 wget https://github.com/CreditVision/script/demo.php
 sudo chown -R www-data:www-data /var/www/html/demo.php
 sudo chown -R www-data:www-data /var/www/html
-sudo chown -R www-data:www-data /var/www
